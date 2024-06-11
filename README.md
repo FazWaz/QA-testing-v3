@@ -3,7 +3,6 @@
 **Steps to Complete the QA Test Assignment:**
 
 **1. Fork this Repository:**
-
 Create a personal copy of this repository under your own GitHub account by clicking the "Fork" button.
 
 **2. Review USER-STORY.md:**
